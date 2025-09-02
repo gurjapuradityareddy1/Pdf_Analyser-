@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # Add a fun banner
-st.image("https://www.shutterstock.com/image-vector/man-talk-recruitment-team-interview-260nw-2218243563.jpg", use_container_width=True)
+st.image("https://static.boredpanda.com/blog/wp-content/uploads/2017/12/funny-job-interview-comics-nathan-w-pyle-fb__700-png.jpg", use_container_width=True)
 
 st.title("📄 PDF Suggester 🤖✨")
 st.markdown("Upload a PDF and let our *friendly robot* suggest improvements 🐱‍👤")
