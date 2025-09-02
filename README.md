@@ -13,3 +13,6 @@ A simple Streamlit app that reads a PDF file and gives text improvement suggesti
    ```bash
    git clone https://github.com/gurjapuradityareddy1/Pdf_Analyser-.git
    cd pdf-suggester
+https://pdfanalyserfordumbbies.streamlit.app/
+## Live Demo
+👉 [Click here to try the app](https://pdfanalyserfordumbbies.streamlit.app/)
