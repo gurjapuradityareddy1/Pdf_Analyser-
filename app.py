@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # Add a fun banner
-st.image("https://i.imgur.com/0X3v6vX.png", use_container_width=True)
+st.image("https://www.shutterstock.com/image-vector/man-talk-recruitment-team-interview-260nw-2218243563.jpg", use_container_width=True)
 
 st.title("📄 PDF Suggester 🤖✨")
 st.markdown("Upload a PDF and let our *friendly robot* suggest improvements 🐱‍👤")
